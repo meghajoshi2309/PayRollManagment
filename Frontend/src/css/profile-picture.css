@@ -1,0 +1,32 @@
+.profile-picture{
+    /* font-weight: bold; */
+    /* background-color: #8E24AA;
+    border-radius: 50%;
+    font-size: 20px;
+    color: white; */
+    width: 30px;
+    height: 30px;
+    border-radius: 50%;
+    font-size: 17px;
+    color: #f1f1f1;
+    text-align: center;
+    margin-bottom: 3px;
+    vertical-align: middle;
+    background-color: #090808;
+}
+
+.profile-logo{
+    background-color: #090808;
+    color: #f1f1f1;
+    border-radius: 50%;
+    text-align: center;
+    vertical-align: middle;
+    width: 75px;
+    height: 75px;
+    font-size: 48px;
+}
+
+.logo-div{
+    padding-left: 22% !important;
+   
+}
